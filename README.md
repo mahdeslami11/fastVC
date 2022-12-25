@@ -39,3 +39,10 @@ This application was developed as a project at [Politecnico di Milano](https://w
 *[Luigi Attorresi](https://github.com/LuigiAttorresi)*<br>
 *[Federico Miotello](https://github.com/fmiotello)*<br>
 *[Eugenio Poliuti](https://github.com/Poliuti)*<br>
+
+Marzieh Ali Atashi
+
+https://github.com/fmiotello
+In this project, three systems of encoder, vocoder, and synthesizer are used for sound compression, and in this method, the empty space and pauses between speech are removed through the spectrogram without changing the content of the speech and in 5 classes examined. It has been completely successful.
+In another project, it has been researched by an Indian group in which another system has been used for ideal compression of the compressed audio file. I present this system in the form of this source code model file.
+
