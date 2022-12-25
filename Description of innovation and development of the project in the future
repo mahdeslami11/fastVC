@@ -1,0 +1,22 @@
+Attention, I’m Trying to Speak
+CS224n Project: Speech Synthesis
+
+weeks to train
+
+Recently convolutional sequence-to-sequence (seq2seq) models have shown how training can
+be massively sped up by using only convolutional layers and attention. For our experiments, we
+implement a simpler model [11] based on this approach that is also quite similar to the approach in
+Baidu DeepVoice3 .
+
+ Details about layers for each module
+Recently convolutional sequence-to-sequence (seq2seq)  models have shown how training can
+be massively sped up by using only convolutional layers and attention. For our experiments, we
+implement a simpler model  based on this approach that is also quite similar to the approach in
+Baidu DeepVoice3 .
+3 Model Architecture
+Figure 1: Schematic of the model architecture. (Left) Overview of the two stages Text2Mel and
+SSRN indicating important modules and dimensions. During training, the feedback input S consists
+of shifted target frames Y, while during inference, the next output is appended and fed back and con-
+tinued for a max number of frames. (Right) Detailed view from the original convolutional seq2seq
+paper (in our case, inputs on the lower half are a single spectrogram frame). The difference between
+causal and non-causal convolutions is highlighted, as well as the addition of positional encodings.
