@@ -1,0 +1,16 @@
+Subjective evaluation and conclusion
+
+It shows that all models fit too small
+degree on the training data while models other than M2, M3 are not trained with guided
+Loss of focus shows how clean the alignments are. This is our final assessment
+To listen to a sample of 20 sentences produced from Harvard Sentences 5 (included in
+Appendix) and do a subjective assessment. Some insights:
+1. M1 is clearly unable to generalize well, given that attentional alignments are not convergent.
+2. While the loss numbers for the M2 and M3 may look good, there is much weaker sound.
+Quality and clarity of pronunciation compared to M4 and M5 models. Model
+The M4 looks distinctly better than the others, with lower artifacts and sharper articulation.
+Sentences like "The box was thrown next to the parked truck." 6
+We acknowledge that this is an informal way of evaluating compared to the typical average
+Opinion Score (MOS) used in collective literature via Amazon Mechanical Turk. However, with
+Limited resources, we hope that our combination of these criteria with the observations made during
+The teaching process provides an interesting insight.
