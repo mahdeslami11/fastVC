@@ -65,4 +65,6 @@ The remarkable thing about the fastVc project is that this cascade model has bee
 This basic waterfall model is used in the main set of all projects implemented in all 120 languages in the world.
 This cascade model can be taught and this training is well seen in the use of other languages and has been very efficient.
 
+https://www.aparat.com/maissa0
+There are 37 videos of project steps and training related to Kolb in this section
 
