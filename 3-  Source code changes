@@ -163,3 +163,7 @@ def highway_activation_conv(X,kernel_size,
                             dilation_rate=1,
                             padding='same',
                             scope='highwayConv')
+                            
+                            https://github.com/Francis-Komizu/Sovits
+                            erja be in proze
+                            
