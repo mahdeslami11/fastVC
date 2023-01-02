@@ -81,24 +81,6 @@ https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share
 
 https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
 
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
 
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
-
-https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
 
 
