@@ -75,6 +75,16 @@ https://drive.google.com/file/d/1Y_QiI4wbRLuFqbBmL9zW4Vl-pOqY1-BV/view?usp=share
 
 https://drive.google.com/file/d/1FrUpP2ulNwG6WOHDppnLG5qzjsRiNI0m/view?usp=share_link
 
+ارائه نهایی پروژه 
 
+https://drive.google.com/file/d/1NBFunokpV1ouKR0O8zT4Rv0SgE9U5IXR/view?usp=share_link
+
+https://drive.google.com/file/d/1m1M8LR6Jx4DgGkzUfefTyowCKUzWA7uG/view?usp=share_link
+
+https://drive.google.com/file/d/1cPZ301ICJCeF28NWO1YN3jxDUa_kCXrW/view?usp=share_link
+
+https://drive.google.com/file/d/1JdcZFGb3qRrQAgcIErNyxTD1--6EpFpI/view?usp=share_link
+
+https://drive.google.com/file/d/1RjPt6wzL48qBaCeOAzaSFWfDahb-ZOTR/view?usp=share_link
 
 
